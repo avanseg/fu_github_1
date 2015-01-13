@@ -48,7 +48,7 @@ public class MainActivity extends ActionBarActivity {
 
         // Выведем в TextView информацию о нажатом пункте меню
         sb.append("Item Menu");
-        sb.append("\r\n groupId: " + String.valueOf(item.getGroupId()));
+        sb.append("\r\n groupId: " + "Vitek like a boss");
         sb.append("\r\n itemId: " + String.valueOf(item.getItemId()));
         sb.append("\r\n order: " + String.valueOf(item.getOrder()));
         sb.append("\r\n title: " + item.getTitle());
